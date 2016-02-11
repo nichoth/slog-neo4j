@@ -1,0 +1,25 @@
+{
+  "name": "slog-neo4j",
+  "version": "0.0.0",
+  "description": "Trying neo4j",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nichoth/slog-neo4j.git"
+  },
+  "author": "Nick Thomas <nichoth@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nichoth/slog-neo4j/issues"
+  },
+  "homepage": "https://github.com/nichoth/slog-neo4j#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "myth-monsters": "^1.0.0",
+    "neo4j": "^1.1.1",
+    "seraph": "^0.14.1"
+  }
+}
