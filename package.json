@@ -17,7 +17,11 @@
   },
   "homepage": "https://github.com/nichoth/slog-neo4j#readme",
   "dependencies": {
+    "after": "^0.8.1",
+    "arrify": "^1.0.1",
     "dotenv": "^2.0.0",
+    "flatten": "^1.0.2",
+    "map-async": "^0.1.1",
     "myth-monsters": "^1.0.0",
     "neo4j": "^1.1.1",
     "seraph": "^0.14.1"
