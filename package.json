@@ -23,7 +23,6 @@
     "flatten": "^1.0.2",
     "map-async": "^0.1.1",
     "myth-monsters": "^1.0.0",
-    "neo4j": "^1.1.1",
     "seraph": "^0.14.1"
   }
 }
